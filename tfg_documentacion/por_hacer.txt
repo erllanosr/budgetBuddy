@@ -1,0 +1,8 @@
+OBJETIVOS Para el 14/04/2023.
+RFTP
+CASOS DE USO
+Landing page
+Socialite
+ChartJS
+Presupuesto: aspectos materiales, servidor, etc.
+Precio por hora, 30 mínimo cada uno x 2.

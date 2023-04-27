@@ -1,0 +1,51 @@
+Tablas:
+-> usuario_acceso
+	-- id
+	-- correo
+	-- clave
+fk usuario_datos -- id
+fk usuario_tarjetas -- id
+
+-> usuario_datos
+	-- id
+	-- nombre
+	-- apellidos
+	-- dirección
+	-- num_teléfono
+	-- codigo_postal
+	-- provincia
+	
+-> usuario_tarjetas
+	-- id
+	-- tarjeta_nombre
+	-- tarjeta_num
+	-- tarjeta_cad
+	-- tarjeta_cod
+	
+	
+	
+	
+	
+	
+	
+	
+-> usuario_banco
+	-- id
+	-- cuenta_bancaria
+	-- IBAN
+-> gastos
+	-- id
+	-- cantidad
+	--
+-> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+TABLA DE CADA GASTO (Varios, Ocio, Restaurante, Servicios Varios, Cuoyas y suscripciones y supers) o, una sola tabla con el nombre de cada tipo.
+
